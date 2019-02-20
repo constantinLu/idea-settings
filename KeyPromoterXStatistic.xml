@@ -25,6 +25,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Java Class">
+        <Item>
+          <IdeaActionID>NewClass</IdeaActionID>
+          <ShortCut>'NumPad-0, NumPad-0'</ShortCut>
+          <Description>Java Class</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Push...">
         <Item>
           <IdeaActionID>Vcs.Push</IdeaActionID>
@@ -33,11 +41,27 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Recompile 'ClassVsInstance.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'ClassVsInstance.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rename...">
         <Item>
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ConditionalSta....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'ConditionalSta....main()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
