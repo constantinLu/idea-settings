@@ -14,7 +14,7 @@
           <IdeaActionID>ConfigureIcs</IdeaActionID>
           <ShortCut>'Ctrl+Shift+Caps Lock'</ShortCut>
           <Description>Settings Repository…</Description>
-          <Count>3</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
