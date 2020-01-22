@@ -2,6 +2,11 @@
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="numpad0" second-keystroke="numpad0" />
   </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl alt f8" />
+    <mouse-shortcut keystroke="alt button1" />
+    <keyboard-shortcut first-keystroke="ctrl alt 8" />
+  </action>
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="shift back_quote" />
   </action>
