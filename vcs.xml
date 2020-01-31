@@ -30,6 +30,10 @@
           <option name="url" value="https://github.com/amigoscode/spring-boot-security-course.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/gizet/secur-profile.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\lungu\IdeaProjects" />
