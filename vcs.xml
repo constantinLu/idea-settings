@@ -38,4 +38,7 @@
     </option>
     <option name="cloneParentDir" value="C:\Users\lungu\IdeaProjects" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="C:/secur/patch" />
+  </component>
 </application>
