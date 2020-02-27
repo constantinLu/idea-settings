@@ -1,4 +1,8 @@
 <keymap version="1" name="gizet" parent="$default">
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateRunDashboardToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="numpad0" second-keystroke="numpad0" />
   </action>
