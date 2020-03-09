@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="alter_table_users_rename_column.sql" type="PLAIN_TEXT" />
+      <mapping pattern="HeaderF.js" type="PLAIN_TEXT" />
+      <mapping pattern="style" type="PLAIN_TEXT" />
+      <mapping pattern="Welcome.js" type="PLAIN_TEXT" />
+      <mapping ext="ldif" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
