@@ -38,9 +38,17 @@
           <option name="url" value="https://github.com/gizet/spring-recipe-app" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.fortech.ro" />
+          <option name="userName" value="constantin.lungu" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.fortech.ro/1.4_fortechbu1_cvmt/e-resume.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\lungu\IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\constantin.lungu\IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
